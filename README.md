@@ -1,5 +1,21 @@
 # 💫 About Me:
-# Hi 👋, I'm Padmasree G M<br><br>### 🚀 4th-Year Computer Science & Engineering Student | Full Stack Developer | Data Analytics Enthusiast | AI Explorer<br><br>I'm a **4th-year Computer Science & Engineering student at RMK Engineering College** with a passion for building real-world software solutions that solve practical problems. I enjoy developing scalable web applications, exploring Artificial Intelligence, Data Analytics, Cloud Computing, and creating products that improve user experience.<br><br>I have hands-on experience in **Full Stack Development (MERN Stack)**, **Python**, **Java**, **Data Analytics (Power BI, Tableau, Excel)**, and **Cloud Computing (AWS & Google Cloud)**. I enjoy turning ideas into impactful applications, from student management platforms and e-commerce systems to smart transportation and navigation solutions.<br><br>I'm continuously learning **Generative AI, Machine Learning, System Design, and Software Engineering**, with the goal of becoming a skilled Software Development Engineer who builds scalable, user-focused products.<br>
+### 👨‍💻 About Me
+
+* 🎓 4th-Year Computer Science & Engineering student at RMK Engineering College.
+* 📊 Passionate about Data Analytics, Business Intelligence, and Data-Driven Decision Making.
+* 🐍 Proficient in Python for data analysis, automation, and problem-solving.
+* 📈 Skilled in Power BI, Tableau, and Microsoft Excel for creating interactive dashboards and visualizations.
+* 🗄️ Experienced in SQL, MySQL, and PostgreSQL for data querying, database management, and reporting.
+* 🧹 Strong understanding of Data Cleaning, Data Preprocessing, and Exploratory Data Analysis (EDA).
+* 📉 Capable of transforming raw datasets into meaningful insights using statistical analysis and visualization techniques.
+* ☁️ Familiar with AWS Cloud and Google Cloud Platform for data-driven applications.
+* 🤖 Exploring Machine Learning and Artificial Intelligence to build predictive analytics solutions.
+* 📚 Continuously learning advanced analytics, data engineering concepts, and business intelligence tools.
+* 💼 Interested in Data Analyst, Business Analyst, Business Intelligence Analyst, and Data Science roles.
+* 🚀 Passionate about solving real-world business problems using data and analytical thinking.
+* 🤝 Open to collaborating on data analytics, visualization, and business intelligence projects.
+* 🌱 Always eager to learn new technologies and contribute to impactful, data-driven solutions.
+<br>
 
 
 ## 🌐 Socials:
